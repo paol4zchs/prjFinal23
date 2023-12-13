@@ -1,0 +1,39 @@
+body{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin:auto;
+    padding: 150px;
+    background-color: #211880;
+    font-size: large;
+}
+
+button{
+    border-radius: 15px;
+    background-color: #333;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+input{
+    border-color: black;
+    border-radius: 10px;
+}
+
+
+.l{
+    font-size:larger;
+    text-align:center;
+}
+
+.maior{
+    background-color:#3825c6;
+    font-size: medium;
+    width: 50%;
+    height: 70%;
+    border-radius: 50px;
+    padding:20px ;
+    margin: 15px;
+    border: 4px solid rgb(0, 0, 0);
+   
+}
